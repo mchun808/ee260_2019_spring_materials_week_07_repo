@@ -1,6 +1,6 @@
 ---
-title: 
-author:
+title: Hw7
+author: Marissa Chun
 partner:
 date:
 ---
